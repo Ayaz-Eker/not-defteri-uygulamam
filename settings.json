@@ -1,0 +1,5 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "workbench.browser.openLocalhostLinks": true,
+    "workbench.externalBrowser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+}
