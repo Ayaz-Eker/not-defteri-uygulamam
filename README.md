@@ -1,0 +1,1 @@
+# not-defteri-uygulamam
